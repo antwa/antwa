@@ -8,7 +8,7 @@
 <h3> My Main Tech Stack for now </h3>
 
 - web
-    - backend :  laravel , python, c#
+    - backend :  laravel , python, c# , Express
     - frontend : vue,angular
   
 - desktop
