@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514441/4229/blob-clap.gif?1643514441" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Bagus, Fullstack web/mobile/desktop developer from <img src="https://flagcdn.com/36x27/id.png" width="13"/> <b>Bogor, Indonesia</b>.
 
-- 🌱 &nbsp;I’m currently learning Rust, Go
+- 🌱 &nbsp;I’m currently learning Rust, Go, NextJs ( React )
 - 🤖 &nbsp;Trying to contribute to Open Source project.
 - 👨‍💻 &nbsp;Read more about my projects at [antwacode.com](http://www.antwacode.com)
 
