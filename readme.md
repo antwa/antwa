@@ -18,6 +18,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
 			<td>	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" title="Visual Basic"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original.svg" alt="Golang" title="Golang"/></code></td>
 		</tr>
 	</table>
 </div>
