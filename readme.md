@@ -99,5 +99,4 @@
 		</tr>
 	</table>
 </div>
-<br />
-<img align="center" src="https://github-readme-stats-ahtq.vercel.app/api?username=antwa&show_icons=true&count_private=true&theme=vue&hide_border=true" alt="antwa's github stats" /> <img align="center" src="https://github-readme-stats-ahtq.vercel.app/api/top-langs/?username=antwa&layout=compact&theme=vue&hide_border=true&langs_count=8&hide=Dockerfile" />
+
