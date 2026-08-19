@@ -39,7 +39,7 @@ interests:
 ##  Creator of:
 - [Json Viewer](https://jsonviewer.antwacode.com) — Visualize and explore your JSON data with JsonViewer. An interactive tool for developers to understand complex JSON structures through flow diagrams and data grids.
 
-- [Qr Code Generator](https://qrcode.antwacode.com) — Generate beautiful, customizable QR codes instantly. Choose from 5 QR types, 6 dot styles, custom colors, and add your own logo. Free, no sign-up required.
+- [Qr Code Generator](https://qrgen.antwacode.com) — Generate beautiful, customizable QR codes instantly. Choose from 5 QR types, 6 dot styles, custom colors, and add your own logo. Free, no sign-up required.
 
 
 ## 📊 GitHub Stats
